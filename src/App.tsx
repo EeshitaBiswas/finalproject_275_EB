@@ -9,7 +9,9 @@ function App(): JSX.Element {
                 <img src={logo} className="App-logo" alt="logo" />
                 UD CIS Scheduler
                 <p>
-                 Hello! Welcome to your Degree Plan!
+                 Hello! Welcome to your Degree Plan! 
+                 
+                 Table
                 </p>
             </header>
         </div>
